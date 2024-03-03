@@ -49,7 +49,7 @@ body {
 }
 
 body {
-    background: url("background-image-url.jpg") no-repeat center center/cover;
+    /* To add background image */
 }
 
 /* Intro section styling */
